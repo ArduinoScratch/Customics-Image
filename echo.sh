@@ -1,0 +1,1 @@
+echo "FROM Play Store | install Brawl Stars (account) DCR | C4TCH4U (throphy) 15000 = 15k" > BrawlStars
